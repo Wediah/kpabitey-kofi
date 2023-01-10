@@ -15,7 +15,16 @@ function Homepage() {
                     
                 </div>
                 <div>
-                    
+                    <div className='flex'>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
                 </div>
             </div>
                     
